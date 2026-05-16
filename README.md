@@ -24,5 +24,8 @@ Window Functions
 
 The goal of this project is to strengthen SQL skills by solving real-world business problems using data analysis.
 
+
 Schema- Music Store Database  
 ![MusicDatabaseSchema](https://user-images.githubusercontent.com/112153548/213707717-bfc9f479-52d9-407b-99e1-e94db7ae10a3.png)
+
+Sources : https://www.youtube.com/@RishabhMishraOfficial 
